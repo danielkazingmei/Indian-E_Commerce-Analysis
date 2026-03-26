@@ -17,6 +17,7 @@ SQL (SQL Server) | Python (Pandas, Seaborn, Matplotlib) |Power BI
 
 ## Links
 Kaggle Notebook : https://www.kaggle.com/code/danielkazingmei/e-commerce-sale-analysis
+
 Power BI Service: https://app.powerbi.com/groups/me/reports/5c480b71-639f-4794-839d-5c4425b8dd10?ctid=4f87dca7-95ce-4b47-961d-12d2f85ba28a&pbi_source=linkShare&bookmarkGuid=6713f444-d7b5-4a4d-9db8-5bcb85c2a26b
 
 ## SQL Queries Included
