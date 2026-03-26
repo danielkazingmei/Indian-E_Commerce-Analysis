@@ -14,6 +14,12 @@ SQL (SQL Server) | Python (Pandas, Seaborn, Matplotlib) |Power BI
 - Top three highest revenue by category are set, kurta and western dress
 - Bottom category has highest cancellation rate at 10 % — ₹15214.98 in lost revenue
 - Sales spike in April- May accounts for 68% of the revenue
+## Business Recommendations
+- invest in Tier-2/3 city logistics — these cities drive 63.59% of revenue yet likely receive less operational investment     than metros. Improving last-mile delivery SLAs in Tier-2/3 cities could reduce their 67% share of cancellation losses     (₹46.2L of ₹69.17L total).
+-  Pre-position inventory before April — revenue spikes 8.1x from December to April. Stocking up in February–March and        running retention campaigns in July to cushion the post-June cliff would stabilise annual revenue significantly.
+-  Reduce cancellations in Set category — ₹34.7L in lost revenue at a 9.12% cancellation rate. Better size guides, product    photography, and faster delivery SLAs could recover ₹7–10L annually.
+- Diversify beyond Set + Kurta — these two categories represent 77% of revenue. Growing Western Dress (₹11.2M, strong avg    order value) reduces concentration risk if trend shifts occur.
+- Build a B2B acquisition channel — B2B average order value is 5–8% higher than B2C across all city tiers. A dedicated B2B   programme or bulk-order discounts could grow high-value orders without proportionally increasing fulfilment costs.
 
 ## Links
 Kaggle Notebook : https://www.kaggle.com/code/danielkazingmei/e-commerce-sale-analysis
