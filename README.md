@@ -21,6 +21,7 @@ Kaggle Notebook : https://www.kaggle.com/code/danielkazingmei/e-commerce-sale-an
 ## SQL Queries Included
 | File | Description |
 |------|-------------|
+|Power Bi|National Overview report, category and product performance Analysis|
 | 01_revenue_by_state.sql | Revenue and order share by Indian state |
 | 02_monthly_trend.sql | Monthly revenue with running total |
 | 03_MoM Growth.sql | MoM growth percentage
